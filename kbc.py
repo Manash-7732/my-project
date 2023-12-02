@@ -38,6 +38,7 @@ while(i<len(qus)):
 
 
 
+
    
 
 print("the score is" + str(x))
